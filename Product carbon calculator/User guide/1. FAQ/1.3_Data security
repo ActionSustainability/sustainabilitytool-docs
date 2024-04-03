@@ -1,0 +1,18 @@
+## Data security
+### Q: Who has access to my data in the PCC?
+A: Data privacy is our top priority. Your data is only accessible to clients with whom you choose to share information. Additionally, all users agree to the platform's terms and conditions upon signing up, ensuring a secure and responsible data environment.
+
+### Q: How is my data protected within the PCC?
+A: Your data is securely hosted on AWS in London, safeguarded by advanced security protocols.
+
+## Embodied carbon queries
+
+### Q: What is embodied carbon?
+A: Embodied carbon refers to the total greenhouse gas emissions associated with the lifecycle of an asset, product or project. The Product Carbon Calculator currently enables to measure embodied emissions for assets and products across the Production Phase (A1-A4) and the Use Phase (B8) for assets.
+For more information on embodied emissions and whole life costs, please refer to the user guide.
+
+### Q: Can the PCC track emissions from the operation of my assets?
+A: Yes, the PCC tracks operational emissions for other processes (B8) that may release emissions during the asset's life. It does not currently cover energy use (B6) and water use (B7).
+
+### Q: How do I add data for different lifecycle stages in the PCC?
+A: To add data, navigate to the appropriate section (A1-A4 and B8) and fill in the details for each stage, such as materials used and transport methods. Use the '+' button to add entries for additional materials or transport legs.
