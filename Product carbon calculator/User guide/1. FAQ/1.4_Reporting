@@ -1,0 +1,13 @@
+## Reporting
+
+### Q: What should I do if I make an error in data entry?
+A: If you need to correct an error, you can delete entries using the bin icon next to the line item. If you need to edit submitted data, copy the asset back to drafts, make your changes, and then resubmit.
+
+## Q: Is it mandatory to complete all fields in the PCC?
+A: Yes, any field marked with an asterisk (*) is mandatory for accurate emissions calculation and must be completed.
+
+## Q: How does the PCC ensure data accuracy?
+A: The PCC uses a Data Accuracy Rating system, which categorises data based on the source of the emission factor. It ranges from 'Green' for high accuracy using EPDs or custom factors, to 'Red' for lower accuracy with default emission factors. See the user guidance for more specific instructions on how to complete this field.
+
+## Q: Can I include custom emission factors in the PCC?
+A: Yes, you can enter custom emission factors if you have more precise manufacturing data, transport or energy data, which allows for a more accurate carbon footprint calculation.
