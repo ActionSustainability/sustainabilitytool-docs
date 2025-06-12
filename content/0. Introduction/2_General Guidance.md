@@ -2,9 +2,9 @@
 
 ##  Getting Started
 
-Users will receive an email inviting them to join a company account on the Sustainability Tool. They should follow the simple steps outlined in the email, which includes opening a web link (https://uk.sustainabilitytool.com/accounts/register/), entering their contact details and then creating a password for their account.
+Users will receive an email inviting them to join a company account on the Sustainability Tool. They should follow the simple steps outlined in the email, which includes opening a web link, entering their contact details and then creating a password for their account.
 
-Once registered, users are able to access their account by going to https://uk.sustainabilitytool.com/, clicking the ‘sign in’ button in the top right-hand side of the page, and entering their newly set sign-in details.
+Once registered, users are able to ‘sign in’ using the top right-hand side of the page, and entering their newly set sign-in details.
 
 ##  Navigation
 
