@@ -17,5 +17,4 @@ Note also that the API documentation is interactive and requests may be made thr
 
 ## Example Jupyter Notebook
 
-An example Jupyter (Python) Notebook outlining a typical example scenario for reporting into the tool programatically may be downloaded here:
-* [PDF](/assets/files/sample.pdf)
+An example Jupyter (Python) Notebook outlining a typical example scenario for reporting into the tool programatically may be requested from our team at info@sustainabilitytool.com
