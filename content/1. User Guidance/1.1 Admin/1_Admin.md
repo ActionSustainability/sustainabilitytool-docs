@@ -60,7 +60,7 @@ To create a business unit within an existing business unit, go to the existing b
 
 4. Enter the project name and address if relevant
 
-5. Define the project settings: - Reporting from: defines the beginning of the first reporting period; when reporting should commence - Reporting to: defines the month after which reporting will cease e.g. by selecting the 10th December 2019, you are indicating that reporting should end in November 2019 - Every & Reporting Increments: define the frequency of the reporting periods e.g. "every 1 months" will generate a project with monthly reporting periods     
+5. Define the project settings: - Reporting from: defines the beginning of the first reporting period; when reporting should commence - Reporting to: defines the month after which reporting will cease e.g. by selecting the 10th December 2025, you are indicating that reporting should end in November 2025 - Every & Reporting Increments: define the frequency of the reporting periods e.g. "every 1 months" will generate a project with monthly reporting periods     
 
 6. If using a template for the metrics and indicator settings, select appropriate template otherwise leave on "None"
 
