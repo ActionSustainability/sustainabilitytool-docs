@@ -7,9 +7,7 @@ The Sustainability Tool has an extensive API that allows you to:
 
 ## Documentation
 
-The complete OpenAPI documentation may be accessed here in Swagger and Redoc respectively:
-• Swagger: <https://uk.sustainabilitytool.com/api-docs/swagger/>
-• ReDoc: <https://uk.sustainabilitytool.com/api-docs/redoc/>
+The complete OpenAPI documentation may be accessed here in Swagger (please note you need to be logged in to your account to access this documentation) Swagger: https://uk.sustainabilitytool.com/api-docs/swagger
 
 Note also that the API documentation is interactive and requests may be made through the Swagger documentation or directly at the API endpoints if viewed using HTTP methods such as a typical endpoint here: <https://uk.sustainabilitytool.com/api/project/>
 
