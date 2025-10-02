@@ -16,6 +16,8 @@ We’ve introduced new features and improvements to make managing users, interpr
 - **Toggle Between Cumulative and Periodic Values:** Added a toggle switch in ESG Tracker dashboards under Performance Breakdown. Users can now choose whether to view cumulative or periodic values as the primary displayed number.
 
 - **Improved Report Timeliness Export Guidance:** Enhanced the explanation for CSV exports of report timeliness. Users can now clearly understand overdue, on-time, early, and not-yet-submitted report values.
+
+![alt](/Release%20Notes/Images/2.1.png)
  
 -	**New User Management Experience:** Introduced a redesigned user management system with an “All Levels” vs “This Level & Below” toggle, and detailed single-user views. Authority groups are hidden (except for super admins), and outstanding invitations are now in a separate tab.
 
