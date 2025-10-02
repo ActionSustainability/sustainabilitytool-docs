@@ -1,5 +1,4 @@
-What's New in the Sustainability Tool
-=====================================
+# What's New in the Sustainability Tool
 
 ### User  Release  Note:  3rd October  2025
 
