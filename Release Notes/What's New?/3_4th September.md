@@ -1,16 +1,28 @@
 # What’s New in the Sustainability Tool
+
 ### User Release Note: 4th September 2025
+
 ### General Updates (Applicable to User Roles - All)
 
 - **Default View Update at Reporting Package Level:** when navigating to a Reporting Package, the system will now automatically open the “New Report” page instead of the Dashboard. The Dashboard remains accessible, but this change streamlines the workflow by taking users directly to the report first.
 
 - **Improved Report Status Labels:** we’ve updated the report status labels on the Notifications Page to make them clearer and easier to distinguish at a glance. Each status now has a unique colour and label, helping you quickly prioritise overdue reports and better understand report progress. This change improves visibility and reduces confusion, especially between overdue and pending input statuses.
 
+![alt](/Release%20Notes/Images/3.1.png)
+
 - **New Status Filter for Pending Actions:** you can now filter the “My Pending Actions” table on the Notifications Page by report status. This allows you to quickly narrow down reports to those that are most relevant (e.g. Pending Approval, Requires Revision) and improve efficiency when managing reports.
+
+![alt](/Release%20Notes/Images/3.2.png)
 
 - **Exports Page Redesign:** the Exports page has been completely redesigned. Each export option now includes a clear explanation of what it contains, making it easier for users to choose the right export for their needs.
 
+![alt](/Release%20Notes/Images/3.3.png)
+
+![alt](/Release%20Notes/Images/3.4.png)
+
 - **Custom date range filter fix:** users can now filter for a custom date range in the performance breakdown tab of the dashboards.
+
+![alt](/Release%20Notes/Images/3.5.png)
   
 - **Password update Bug Fix:** there was an issue with the update password functionality when logged in. This has now been resolved.
 
@@ -22,7 +34,11 @@
 
 - **Alphabetical ordering in performance breakdown table:** the projects and reports in the performance breakdown table is now in alphabetical order. This helps improve ease of navigation for an easier analysis of your data.
 
+![alt](/Release%20Notes/Images/3.6.png)
+
 - **Update to Settings Page:** the "Technical Details" section at the bottom of the settings pages is now hidden. This change removes unnecessary information for standard users, reducing confusion and keeping settings pages clearer and more relevant.
+
+![alt](/Release%20Notes/Images/3.7.png)
 
 - **API integration:** we’ve consolidated the APIs for the ESG tracker in one single Swagger interface. This provides external developers with a more streamlined and consistent way to integrate with the ESG Tracker. The change reduces complexity and makes it easier to automate workflows and access ESG tracker data.
 
